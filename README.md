@@ -1,3 +1,9 @@
+> Process discovery with variants of the Heuristics Miner algorithm
+
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/heuristicsmineR)](https://cran.r-project.org/package=heuristicsmineR)
+[![Travis-CI Build Status](https://travis-ci.org/fmannhardt/heuristicsmineR.svg?branch=master)](https://travis-ci.org/fmannhardt/heuristicsmineR)
+
+
 # Discover Process Models With the Heuristics Miner
 
 Discovery of process models from event logs based on the Heuristics Miner algorithm integrated into the [bupaR](http://bupar.net/) framework.

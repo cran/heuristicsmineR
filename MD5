@@ -1,7 +1,7 @@
-05f5dadba37e9e0fe109372154b76d8c *DESCRIPTION
+3e3182e47449979dbfd92e31b25a5a84 *DESCRIPTION
 64a65d092e288493c3ce6390f914c0c9 *LICENSE
-9ce1c067075b74e526f9dcc8ea190466 *NAMESPACE
-a22686dd8efe65b5eae49ca6f4cac848 *NEWS.md
+88a70aae6cfd07039bbf8094466991e5 *NAMESPACE
+bddf7f9541d1cf9d0bd2063c7b4e72b7 *NEWS.md
 2e387a068763be7dc4ed5ade471de6f3 *R/RcppExports.R
 54dd79f3d5a7d64eec376f2822b743b4 *R/as.data.frame.dependency_matrix.R
 7f339e2796e623dbb334bb80aaaf886e *R/as.matrix.process_matrix.R
@@ -24,8 +24,9 @@ eee34209648e6602252d3b5d3debee77 *R/precedence_matrix_length_two_loop.R
 cc9fb00c15c72473bb4adcf9e25b2ffd *R/print.dependency_matrix.R
 3c6a4e1fafcc8513b28d8bd85bed9e53 *R/render_causal_net.R
 ef41224272c7eefe7ce388749c4be9e4 *R/render_dependency_matrix.R
+ad3f3c64fcdb96e66b1859bd35c48478 *R/utils-pipe.R
 b34c4d72c13c175e59f6bf74cd119238 *R/utils.R
-fd0d5f4c3b6538c79e1009316286c4aa *README.md
+f0dfe1fb8e91d738ceaad37829c4fb6a *README.md
 0a5820b22151a70c453e302330176eb6 *data/L_heur_1.rda
 d07995ee615f750e98a5c31715046c52 *data/L_heur_2.rda
 4e2c51e7a5b97435366aad29a63de3d4 *data/hospital_multi_perspective.rda
@@ -44,6 +45,7 @@ e21c3eccc72f30cde6d543865dad40ee *man/dependency_type_fhm.Rd
 f44640a80454839b34042e58b788970f *man/figures/patients.png
 6dfca240dabae4374555c8d6c3bd481f *man/hospital_multi_perspective.Rd
 d732a7a0c47a452c29ccf4ea80597bb1 *man/parallel_matrix_lifecycle.Rd
+7c0f31c27fb11a05372afe610d4f4164 *man/pipe.Rd
 037cf0a9876caaf15aed0fcdd12a315c *man/plot.dependency_matrix.Rd
 0edef626a7a008bc80e0d9e54635af6f *man/precedence_matrix.Rd
 2951636b7d677c3eaa156738bc584fc5 *man/precedence_matrix_absolute.Rd
@@ -54,7 +56,7 @@ f3ce9f4d8306cf539f8136c4156e9296 *man/print.dependency_matrix.Rd
 d9ab773d7870e9431eadaf57f52b9cff *man/render_causal_net.Rd
 b50f4398dda644f120de015db738cc87 *man/render_dependency_matrix.Rd
 c86763b4ce12b04281fd5d477d63b39d *src/RcppExports.cpp
-2b09124065b13e8cfa2a224849cd4f0a *src/count_length_two_loops.cpp
-a68aaacf85b1ad1c03219df078cf3a05 *src/count_parallel_lifecycle.cpp
-66c36657491462d8715a905ba6c1d35e *src/count_precedence.cpp
-943633fe22d21f50d16cc21a05a0daf9 *src/count_precedence_lifecycle.cpp
+18ecdeb13efdda0645439c6bbf68da85 *src/count_length_two_loops.cpp
+fbb474012430fee697824df83943ca4b *src/count_parallel_lifecycle.cpp
+a6095b6288e654c12e5e5da149929e03 *src/count_precedence.cpp
+6c81fa6af4047565ac1991398ae2c4b7 *src/count_precedence_lifecycle.cpp
