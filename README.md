@@ -1,7 +1,8 @@
 > Process discovery with variants of the Heuristics Miner algorithm
 
+[![](https://cranlogs.r-pkg.org/badges/heuristicsmineR)](https://cran.r-project.org/package=heuristicsmineR)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/heuristicsmineR)](https://cran.r-project.org/package=heuristicsmineR)
-[![Travis-CI Build Status](https://travis-ci.org/fmannhardt/heuristicsmineR.svg?branch=master)](https://travis-ci.org/fmannhardt/heuristicsmineR)
+[![Travis-CI Build Status](https://travis-ci.org/bupaverse/heuristicsmineR.svg?branch=master)](https://travis-ci.org/bupaverse/heuristicsmineR)
 
 
 # Discover Process Models With the Heuristics Miner
@@ -19,7 +20,8 @@ install.packages("heuristicsmineR")
 You can install the development version of heuristicsmineR with:
 
 ``` r
-remotes::install_github("fmannhardt/heuristicsmineR")
+source("https://install-github.me/r-lib/remotes")
+remotes::install_github("bupaverse/heuristicsmineR")
 ```
 
 ## Example
@@ -65,7 +67,7 @@ render_PN(pn)
 
 ![](man/figures/L_heur_1_petrinet.png)
 
-The Petri net can be further used, for example for conformance checking through the [pm4py](https://github.com/fmannhardt/pm4py) package (Note that the final marking is currently not saved in petrinetR):
+The Petri net can be further used, for example for conformance checking through the [pm4py](https://github.com/bupaverse/pm4py) package (Note that the final marking is currently not saved in petrinetR):
 
 ``` r
 library(pm4py)
