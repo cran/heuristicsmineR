@@ -1,7 +1,7 @@
-6b6b4c070b4b1aa8b55b40fb6cae4322 *DESCRIPTION
+545c52f02508428b4a1ce3602ad503b0 *DESCRIPTION
 64a65d092e288493c3ce6390f914c0c9 *LICENSE
 bb13b060d3e1d6bac2d74216727d9baf *NAMESPACE
-a85772f7ae03f46c65b1b9e675ce6c94 *NEWS.md
+6dad947744e2aef3d98afaad6a5308de *NEWS.md
 2e387a068763be7dc4ed5ade471de6f3 *R/RcppExports.R
 54dd79f3d5a7d64eec376f2822b743b4 *R/as.data.frame.dependency_matrix.R
 7f339e2796e623dbb334bb80aaaf886e *R/as.matrix.process_matrix.R
@@ -9,8 +9,8 @@ a85772f7ae03f46c65b1b9e675ce6c94 *NEWS.md
 53fc10add3dabf3c0f2082cf49017b1a *R/causal_bindings.R
 a2700fa1d3ab787720da73aac4bd9da6 *R/causal_custom.R
 cc8f151342cf1c53c01ed35b3b87d79c *R/causal_frequency.R
-9b8a2744f1fe388ff6eaa98ea870d59b *R/causal_net.R
-2577205ab199e5c4c3536a925e309a29 *R/causal_performance.R
+dd7890170c76072efa8e480303d58baa *R/causal_net.R
+ec6ea536a42e82211135185117240e60 *R/causal_performance.R
 c364dfe264bbe7012708e69e1aa8604b *R/datasets.R
 242e9f3c1c4a010e6cb4d827af25cc11 *R/dependency_matrix.R
 739bdd1d1e2b5f9ba072bf82a5f27c17 *R/dependency_type_fhm.R
