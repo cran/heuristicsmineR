@@ -1,4 +1,4 @@
-d0b0b719f0a65065d6b07357bde5622c *DESCRIPTION
+19444604ad0f0e3b736b5447128cdec9 *DESCRIPTION
 64a65d092e288493c3ce6390f914c0c9 *LICENSE
 bb13b060d3e1d6bac2d74216727d9baf *NAMESPACE
 5f45ff4d6559ace9f95a614a2cee4288 *NEWS.md
@@ -27,11 +27,11 @@ d234617d83aa20e84627b1bd8f1cab77 *R/render_causal_net.R
 ef41224272c7eefe7ce388749c4be9e4 *R/render_dependency_matrix.R
 ad3f3c64fcdb96e66b1859bd35c48478 *R/utils-pipe.R
 f589dee54c2df1aa070937503ca3dbc3 *R/utils.R
-72d85c5e079b5b442816bdc3d905e4ea *README.md
-cd43758a9652e41e570c57fdbb8704b2 *build/partial.rdb
-0a5820b22151a70c453e302330176eb6 *data/L_heur_1.rda
-d07995ee615f750e98a5c31715046c52 *data/L_heur_2.rda
-4e2c51e7a5b97435366aad29a63de3d4 *data/hospital_multi_perspective.rda
+a5b0bba86df68adefb9befa3f63c8708 *README.md
+08f91044014265e03c343e1c65c4b5b9 *build/partial.rdb
+c30a5a38fbe13bec55db0d2deb06e363 *data/L_heur_1.rda
+d89bd6b48443da19d2a639f3ce1bec1c *data/L_heur_2.rda
+24b60ef2e9932f4dbd999fc842896226 *data/hospital_multi_perspective.rda
 798e8b36d3ff87e39b49ac779290d633 *man/L_heur_1.Rd
 37c75da1f17b05886996ea6639aa898f *man/L_heur_2.Rd
 90f2850a972aa4fc5457519de5a3aa5d *man/as.petrinet.Rd

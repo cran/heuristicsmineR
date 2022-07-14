@@ -7,7 +7,7 @@
 
 # Discover Process Models With the Heuristics Miner
 
-Discovery of process models from event logs based on the Heuristics Miner algorithm integrated into the [bupaR](http://bupar.net/) framework.
+Discovery of process models from event logs based on the Heuristics Miner algorithm integrated into the [bupaR](https://bupar.net/) framework.
 
 ## Installation
 
