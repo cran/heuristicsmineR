@@ -1,8 +1,7 @@
 Package: heuristicsmineR
 Type: Package
 Title: Discovery of Process Models with the Heuristics Miner
-Version: 0.2.6
-Date: 2022-07-14
+Version: 0.2.7
 Authors@R: 
     person(given = "Felix",
            family = "Mannhardt",
@@ -26,12 +25,12 @@ Imports: bupaR, processmapR (>= 0.3.1), rlang, magrittr, dplyr, tidyr,
         DiagrammeR (>= 1.0.0), petrinetR, purrr, scales, Rcpp, ggplot2,
         ggthemes, data.table, stringr
 Suggests: eventdataR, svgPanZoom, DiagrammeRsvg
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.1
 URL: https://github.com/bupaverse/heuristicsmineR
 BugReports: https://github.com/bupaverse/heuristicsmineR/issues
 NeedsCompilation: yes
-Packaged: 2022-07-14 15:04:18 UTC; lucp8407
+Packaged: 2022-07-21 13:04:35 UTC; FelixMannhardt
 Author: Felix Mannhardt [aut, cre]
 Maintainer: Felix Mannhardt <f.mannhardt@tue.nl>
 Repository: CRAN
-Date/Publication: 2022-07-14 15:40:02 UTC
+Date/Publication: 2022-07-21 15:10:02 UTC

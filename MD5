@@ -1,7 +1,7 @@
-19444604ad0f0e3b736b5447128cdec9 *DESCRIPTION
+c4cd4fcf730da4750616a8b61290d67b *DESCRIPTION
 64a65d092e288493c3ce6390f914c0c9 *LICENSE
 bb13b060d3e1d6bac2d74216727d9baf *NAMESPACE
-5f45ff4d6559ace9f95a614a2cee4288 *NEWS.md
+bbbc0255f95dbb7af2a119e067f28096 *NEWS.md
 2e387a068763be7dc4ed5ade471de6f3 *R/RcppExports.R
 54dd79f3d5a7d64eec376f2822b743b4 *R/as.data.frame.dependency_matrix.R
 7f339e2796e623dbb334bb80aaaf886e *R/as.matrix.process_matrix.R
@@ -26,9 +26,9 @@ cc9fb00c15c72473bb4adcf9e25b2ffd *R/print.dependency_matrix.R
 d234617d83aa20e84627b1bd8f1cab77 *R/render_causal_net.R
 ef41224272c7eefe7ce388749c4be9e4 *R/render_dependency_matrix.R
 ad3f3c64fcdb96e66b1859bd35c48478 *R/utils-pipe.R
-f589dee54c2df1aa070937503ca3dbc3 *R/utils.R
-a5b0bba86df68adefb9befa3f63c8708 *README.md
-08f91044014265e03c343e1c65c4b5b9 *build/partial.rdb
+660d8533c9d75fdaddecf732532849b8 *R/utils.R
+58bd448a4815e84556fef13d771e9bba *README.md
+afbe4209b3bb961ba3e41cbfe79ea507 *build/partial.rdb
 c30a5a38fbe13bec55db0d2deb06e363 *data/L_heur_1.rda
 d89bd6b48443da19d2a639f3ce1bec1c *data/L_heur_2.rda
 24b60ef2e9932f4dbd999fc842896226 *data/hospital_multi_perspective.rda
@@ -39,7 +39,7 @@ d89bd6b48443da19d2a639f3ce1bec1c *data/L_heur_2.rda
 4d5fa17050c8785c5f93069a7bb97087 *man/causal_custom.Rd
 d9a0a19e0a73d25b75db9751c8c97621 *man/causal_frequency.Rd
 85faa750cd692dc6673b6d3281e52555 *man/causal_net.Rd
-51e4d4651331758649203a21674e63e2 *man/causal_performance.Rd
+4967418e7fc85c95c78432c950f086ac *man/causal_performance.Rd
 b79a1e3c818902235580093068be5f06 *man/dependency_matrix.Rd
 695c57cf2a45ed9e81a4ede3c32ee253 *man/dependency_type_fhm.Rd
 d70443659b68f00b9ecaa147edb1e6cf *man/dependency_type_lifecycle.Rd
