@@ -1,12 +1,16 @@
 Package: heuristicsmineR
 Type: Package
 Title: Discovery of Process Models with the Heuristics Miner
-Version: 0.2.7
+Version: 0.3.0
 Authors@R: 
-    person(given = "Felix",
+    c(person(given = "Felix",
            family = "Mannhardt",
            role = c("aut", "cre"),
-           email = "f.mannhardt@tue.nl")
+           email = "f.mannhardt@tue.nl"),
+           person(given = "Gert",
+           family = "Janssenswillen",
+           role = "ctb",
+           email = "gert.janssenswillen@uhasselt.be"))
 Description: Provides the heuristics miner algorithm for process discovery 
    as proposed by Weijters et al. (2011) <doi:10.1109/CIDM.2011.5949453>. The
    algorithm builds a causal net from an event log created with the 'bupaR' 
@@ -19,18 +23,19 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 LinkingTo: Rcpp, BH
-SystemRequirements: C++11
+SystemRequirements: C++
 Depends: R (>= 2.10)
 Imports: bupaR, processmapR (>= 0.3.1), rlang, magrittr, dplyr, tidyr,
-        DiagrammeR (>= 1.0.0), petrinetR, purrr, scales, Rcpp, ggplot2,
-        ggthemes, data.table, stringr
+        DiagrammeR (>= 1.0.0), petrinetR (>= 0.3.0), purrr, scales,
+        Rcpp, ggplot2, ggthemes, data.table, stringr
 Suggests: eventdataR, svgPanZoom, DiagrammeRsvg
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.3
 URL: https://github.com/bupaverse/heuristicsmineR
 BugReports: https://github.com/bupaverse/heuristicsmineR/issues
 NeedsCompilation: yes
-Packaged: 2022-07-21 13:04:35 UTC; FelixMannhardt
-Author: Felix Mannhardt [aut, cre]
+Packaged: 2023-04-04 12:51:28 UTC; lucp8407
+Author: Felix Mannhardt [aut, cre],
+  Gert Janssenswillen [ctb]
 Maintainer: Felix Mannhardt <f.mannhardt@tue.nl>
 Repository: CRAN
-Date/Publication: 2022-07-21 15:10:02 UTC
+Date/Publication: 2023-04-04 13:20:06 UTC

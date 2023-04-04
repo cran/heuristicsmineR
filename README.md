@@ -2,7 +2,6 @@
 
 [![](https://cranlogs.r-pkg.org/badges/heuristicsmineR)](https://cran.r-project.org/package=heuristicsmineR)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/heuristicsmineR)](https://cran.r-project.org/package=heuristicsmineR)
-[![Travis-CI Build Status](https://travis-ci.org/bupaverse/heuristicsmineR.svg?branch=master)](https://travis-ci.org/bupaverse/heuristicsmineR)
 
 
 # Discover process models with the Heuristics Miner
